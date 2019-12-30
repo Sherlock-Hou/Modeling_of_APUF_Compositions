@@ -24,7 +24,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -80,6 +80,8 @@
       <workItem from="1574592721546" duration="2745000" />
       <workItem from="1574749076844" duration="2740000" />
       <workItem from="1574948720703" duration="1591000" />
+      <workItem from="1577697100737" duration="1021000" />
+      <workItem from="1577708234205" duration="210000" />
     </task>
     <servers />
   </component>
