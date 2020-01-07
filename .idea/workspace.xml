@@ -21,10 +21,11 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1U3kYvOTQN913TeHE7aTFkrzFqc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -82,6 +83,7 @@
       <workItem from="1574948720703" duration="1591000" />
       <workItem from="1577697100737" duration="1021000" />
       <workItem from="1577708234205" duration="210000" />
+      <workItem from="1578317203126" duration="2266000" />
     </task>
     <servers />
   </component>
