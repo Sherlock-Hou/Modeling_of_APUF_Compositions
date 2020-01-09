@@ -1,8 +1,9 @@
-import numpy as np
-import pandas as pd
-from sklearn import cross_validation
+import tensorflow as tf
+# import numpy as np
+# import pandas as pd
+# from sklearn import cross_validation
 from sklearn.model_selection import train_test_split
-from keras.models import Sequential
+from tensorflow.keras import Sequential
 from keras.layers import Dense, Dropout
 import keras.backend as K
 

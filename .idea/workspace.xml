@@ -25,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -39,7 +39,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.apuf_tf_modeling">
+    <configuration name="apuf_tf_modeling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Modeling_of_APUF_Compositions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/64bit/HalfMillion/APUF" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/64bit/HalfMillion/APUF/apuf_tf_modeling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tensorflow-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.apuf_tf_modeling" />
         <item itemvalue="Python.hello" />
       </list>
     </recent_temporary>
@@ -84,6 +107,9 @@
       <workItem from="1577697100737" duration="1021000" />
       <workItem from="1577708234205" duration="210000" />
       <workItem from="1578317203126" duration="2266000" />
+      <workItem from="1578362693055" duration="662000" />
+      <workItem from="1578556231912" duration="3655000" />
+      <workItem from="1578560727414" duration="7074000" />
     </task>
     <servers />
   </component>
@@ -104,6 +130,7 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Modeling_of_APUF_Compositions$hello.coverage" NAME="hello Coverage Results" MODIFIED="1574749495227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../tensorflow-study" />
+    <SUITE FILE_PATH="coverage/Modeling_of_APUF_Compositions$hello.coverage" NAME="hello Coverage Results" MODIFIED="1578556548933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../tensorflow-study" />
+    <SUITE FILE_PATH="coverage/Modeling_of_APUF_Compositions$apuf_tf_modeling.coverage" NAME="apuf_tf_modeling Coverage Results" MODIFIED="1578576865188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/64bit/HalfMillion/APUF" />
   </component>
 </project>
