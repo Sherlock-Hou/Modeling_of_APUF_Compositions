@@ -3,20 +3,20 @@ import tensorflow as tf
 # import pandas as pd
 # from sklearn import cross_validation
 from sklearn.model_selection import train_test_split
-from tensorflow.keras import Sequential
-from keras.layers import Dense, Dropout
-import keras.backend as K
+from tensorflow.keras import Sequential, layers
+# from keras.layers import Dense, Dropout
+# import keras.backend as K
 
 import numpy
 from sklearn import metrics
 import pandas as pd
-from keras.layers.advanced_activations import LeakyReLU, PReLU
-from keras.layers import LeakyReLU
-import keras_metrics
-from sklearn.metrics import confusion_matrix
+# from keras.layers.advanced_activations import LeakyReLU, PReLU
+# from keras.layers import LeakyReLU
+# import keras_metrics
+# from sklearn.metrics import confusion_matrix
 import time
 
-df1 = pd.read_csv('../dataset/APUF_XOR_Challenge_Parity_64_500000.csv', header=None)
+df1 = pd.read_csv('./APUF_XOR_Challenge_Parity_64_500000.csv', header=None)
 df2 = pd.read_csv('../all_apuf_responses/1resp_XOR_APUF_chal_64_500000.csv', header=None)
 # fix random seed for reproducibility
 numpy.random.seed(42)
